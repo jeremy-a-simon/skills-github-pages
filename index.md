@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+# Learning blog that won't be abondoned 
+And some text 
+
 ---
