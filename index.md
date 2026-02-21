@@ -1,5 +1,4 @@
 ---
-# Learning blog that won't be abondoned 
-And some text 
-
+title: "Learning blog that won't be abandoned"
 ---
+And some text
